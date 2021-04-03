@@ -8,7 +8,6 @@ Here are some random facts about me:
 - 🔭 I’m currently working on MERN and graphql projects
 - 🌱 I’m currently learning typescript,react-native,graphql
 - 👯 I’m looking to collaborate on open source pwa projects
-- 🤔 I’m looking for help with 
 - 💬 Ask me about web development and python-ml things
 - ⚡ Mantra: If you are sad for one minute...you lose 60 seconds of happiness!
 
